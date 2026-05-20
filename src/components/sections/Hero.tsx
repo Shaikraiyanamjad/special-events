@@ -82,7 +82,7 @@ export function Hero() {
             transition={{ duration: 0.9, ease: [0.22, 1, 0.36, 1] }}
             className="display-xl text-[clamp(2.8rem,7.5vw,7.5rem)]"
           >
-            We are Renaissance Events
+            We are Special Events Channel
           </motion.h1>
 
           <motion.div
